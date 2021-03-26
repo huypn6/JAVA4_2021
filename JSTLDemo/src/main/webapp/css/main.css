@@ -1,0 +1,17 @@
+.header{
+	color: red;
+}
+
+.footer{
+	color: blue;
+	
+	
+}
+.side-bar{
+	color: gray;
+}
+
+.wraper{
+	width:100%;
+	height:50px;
+}
